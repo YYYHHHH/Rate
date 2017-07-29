@@ -6,7 +6,7 @@ clone下来之后npm install或者yarn，完成之后，npm run dev可以看效�
 
 文档如下：
 
-属性nbsp;nbsp;nbsp;nbsp;nbsp;说明nbsp;nbsp;nbsp;nbsp;nbsp;类型nbsp;nbsp;nbsp;nbsp;nbsp; 默认值 <br/>
+属性&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;说明nbsp;nbsp;nbsp;nbsp;nbsp;类型nbsp;nbsp;nbsp;nbsp;nbsp; 默认值 <br/>
 disablednbsp;nbsp;nbsp;nbsp;nbsp;只读，无法进行交互nbsp;nbsp;nbsp;nbsp;nbsp;booleannbsp;nbsp;nbsp;nbsp;nbsp;false <br/>
 characternbsp;nbsp;nbsp;nbsp;nbsp;自定义字符（不支持emoji）nbsp;nbsp;nbsp;nbsp;nbsp;textnbsp;nbsp;nbsp;nbsp;nbsp;★ <br/>
 countnbsp;nbsp;nbsp;nbsp;nbsp;star总数nbsp;nbsp;nbsp;nbsp;nbsp; numbernbsp;nbsp;nbsp;nbsp;nbsp; 5 <br/>
