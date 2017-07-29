@@ -1,6 +1,7 @@
 # Rate
 
 一个五星评分组件，要用的话直接复制Rate.jsx这个文件到你的项目内，然后import一下。
+clone下来之后npm install或者yarn，完成之后，npm run dev可以看效果。
 
 
 文档如下：
